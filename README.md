@@ -7,3 +7,9 @@ Codsoft-TASK-1: Movie Genre Classification
 ✅ Implements machine learning models for classification
 ✅ Can be extended with deep learning techniques
 
+🚀 Technologies Used
+🔹 Python 🐍
+🔹 NLP (TF-IDF)
+🔹 Scikit-learn
+🔹 Pandas & NumPy
+🔹 Matplotlib & Seaborn (for visualization)
